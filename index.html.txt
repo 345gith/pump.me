@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pump.me - Empower Your Growth</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e2f;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #27273f;
+        }
+        header h1 {
+            color: #00ff7f;
+            font-size: 3em;
+            margin: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+            text-align: center;
+        }
+        .section h2 {
+            font-size: 2em;
+            color: #ffdd57;
+        }
+        .section p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .image {
+            display: block;
+            margin: 20px auto;
+            border: 5px solid #ffdd57;
+            border-radius: 10px;
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #27273f;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Pump.me</h1>
+        <p>Your Gateway to Exponential Growth</p>
+    </header>
+    
+    <div class="container">
+        <!-- Section 1 -->
+        <div class="section">
+            <h2>The Vision</h2>
+            <img src="image1.png" alt="Graph ascending with success vibes" class="image">
+            <p>At Pump.me, we envision a world where financial success is within everyone's reach. Our project is built on the belief that growth can be both empowering and fun, with a focus on innovation and accessibility.</p>
+        </div>
+        
+        <!-- Section 2 -->
+        <div class="section">
+            <h2>Our Promise</h2>
+            <img src="image2.png" alt="Fun and bold visuals" class="image">
+            <p>With bold visuals and a dynamic platform, Pump.me delivers tools and opportunities that help you thrive. We’re here to make financial growth simple, exciting, and achievable for all.</p>
+        </div>
+        
+        <!-- Section 3 -->
+        <div class="section">
+            <h2>Join the Movement</h2>
+            <img src="image3.png" alt="Community energy and fun" class="image">
+            <p>Ready to pump up your potential? Join a community that shares your vision for success, backed by cutting-edge resources and an energetic vibe that keeps you motivated every step of the way.</p>
+        </div>
+    </div>
+    
+    <footer>
+        <p>© 2024 Pump.me - All Rights Reserved</p>
+    </footer>
+</body>
+</html>
